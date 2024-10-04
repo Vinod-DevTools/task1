@@ -1,2 +1,2 @@
-def x,y,z;
+def x y z;
 printf(x+y+z);
